@@ -1,7 +1,5 @@
 // Obra por: Victor Vasarely
-//video viejo
-// https://youtu.be/pYogkmIOtV4?si=eZ9JflKfs8-QcHnX
-//video nuevo
+//enlace del video 
 //https://youtu.be/O9hKCz__Fts?si=v16D9GAAIvmGTRth
 
 let cant = 10;
